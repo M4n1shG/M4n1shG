@@ -3,7 +3,7 @@
 I work at the intersection of product, design, and engineering.  
 My focus is on reimagining how people learn by building AI-powered digital experiences that are meaningful, intuitive, and human.
 
----
+<br><br>
 
 ## What I Do  
 - ⚙️ Serve as SVP Engineering at :contentReference[oaicite:0]{index=0}, guiding AI-driven product development and engineering strategy.  
@@ -11,7 +11,7 @@ My focus is on reimagining how people learn by building AI-powered digital exper
 - 🎨 Combine engineering depth with design sensibility to guide multidisciplinary teams with clarity and intent.  
 - 🤖 Apply AI-first thinking to how products are imagined, designed, built, scaled, and evolved.
 
----
+<br><br>
 
 ## What You’ll Find Here  
 This GitHub is the making side of my work.  
@@ -25,7 +25,7 @@ You can expect:
 - 📚 Experiments that explore new ways of learning, practicing, and understanding.  
 - 🧵 Code and artifacts that document process as much as outcome, since clarity often emerges through making.
 
----
+<br><br>
 
 ## How I Work  
 - 🧠 Start from first principles to see problems clearly.  
@@ -34,11 +34,13 @@ You can expect:
 - 🤝 Treat AI as a partner that amplifies intent.  
 - 🔨 Let ideas take shape through creation, not speculation.
 
----
+<br><br>
 
 ## Elsewhere  
 - ✍️ Essays, context, and philosophy at **[m-verse.com](https://m-verse.com)**  
 - 📄 About page at **[m-verse.com/about](https://m-verse.com/about)**  
 - 🔗 Connect with me on :contentReference[oaicite:1]{index=1} at **[linkedin.com/in/manishmsgupta](https://www.linkedin.com/in/manishmsgupta/)**
+
+<br><br>
 
 All work here reflects my personal exploration and thinking.
