@@ -1,4 +1,4 @@
-# Hi, I'm Manish Gupta 👋  
+# Hi, I'm Manish Gupta 🖖  
 
 I work at the intersection of product, design, and engineering.  
 My focus is on reimagining how people learn by building AI-powered digital experiences that are meaningful, intuitive, and human.
